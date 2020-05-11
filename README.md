@@ -1,2 +1,2 @@
-# Android-Horizontal-DatePicker-View
+# Android-Horizontal-DatePicker-View-Lib
 Android-Horizontal-DatePicker-View
